@@ -2,7 +2,7 @@ public class Binarysearch {
 
   public static void main(String[] args){
 
-    int[] arrays = {-3,-2-1,2,3,5,7,9,10,12,45,67};
+    int[] arrays = {-3,-2-1,2,3,5,7,9,10,12,45,67};  //ascending order
     int tarelement = -1;
     int solution = bsearch(arrays, tarelement);
     System.out.println(solution);
